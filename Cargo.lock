@@ -1970,9 +1970,9 @@ dependencies = [
 
 [[package]]
 name = "tokio-tfo"
-version = "0.1.6"
+version = "0.1.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b93eed9e89178a64628334b848ab6a415c5593e1095147de5dff336f9c9518eb"
+checksum = "4279aec5ded232170bf39130dd0e0deaed2c9f31cd3b5db1f2021056bcf5f94a"
 dependencies = [
  "cfg-if",
  "futures",
