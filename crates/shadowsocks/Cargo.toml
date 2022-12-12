@@ -76,7 +76,7 @@ winapi = { version = "0.3", features = ["mswsock", "winsock2", "netioapi"] }
 
 # Just for the ioctl call macro
 [target.'cfg(any(target_os = "linux", target_os = "android"))'.dependencies]
-nix = "0.23"
+nix = "0.26"
 
 [dev-dependencies]
 env_logger = "0.9"
